@@ -1,4 +1,10 @@
 <div align="center">
+  <h1>Hi, I'm Jaspher Cadelina! 👋</h1>
+  <h3>Computer Science Student | Full Stack Developer | Tech Enthusiast</h3>
+</div>
+
+
+<div align="center">
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code></td>
@@ -30,9 +36,37 @@
 
 
 
-HELLO I JASPHER
+### 👨‍💻 About Me
+I’m a **third-year Computer Science student** at the **Technological Institute of the Philippines**, specializing in **Software Engineering**. I’m passionate about building scalable and efficient software solutions, and I’m always eager to learn and grow in the tech industry.  
 
+I thrive on solving real-world problems through code, and I’m particularly interested in **web development, Java, Python, and cloud technologies**. My goal is to contribute to meaningful projects that make a difference while continuously improving my skills.
 
+### 🌟 Leadership & Extracurriculars
+- **Director of Communication** at **Junior Philippine Computer Society (JPCS)**:  
+  Led communication initiatives for a 500+ member organization, organized events, and fostered collaboration among students and faculty. This role helped me develop strong **communication, teamwork, and leadership skills**.
+
+---
+
+### 🚀 Projects
+Here are some of the projects I’ve worked on:
+- **E-commerce Application for Local Subdivision**:  
+  Developed a full-stack e-commerce platform using **Spring Boot, React.js, and AWS**, implementing real-time messaging and secure user authentication.
+- **Spotify Recommendation System**:  
+  Built a content-based music recommendation system using **Python, Flask, and Spotify API**, integrating dynamic front-end interactions with JavaScript.
+- **Java-Based POS System**:  
+  Created a POS system using **JavaFX and JDBC** to streamline sales and inventory management for a local canteen.
+
+---
+
+### 📚 Academics
+- **Bachelor of Science in Computer Science** at the Technological Institute of the Philippines (Expected Graduation: Aug 2026).  
+- **Cumulative GPA: 1.4 | Consistent Dean’s Lister**.  
+- **Relevant Coursework**: Data Structures & Algorithms, Java Full Stack Development, Object-Oriented Programming, Intelligent Agents, Statistics & Applications.
+
+---
+
+### 🌐 Let's Connect!
+I’m always open to collaborating on exciting projects or discussing opportunities. Feel free to reach out!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jaspher-cadelina-2151a423b/" target="_blank">
