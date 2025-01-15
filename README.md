@@ -55,6 +55,8 @@ Here are some of the projects I’ve worked on:
   Built a content-based music recommendation system using **Python, Flask, and Spotify API**, integrating dynamic front-end interactions with JavaScript.
 - **Java-Based POS System**:  
   Created a POS system using **JavaFX and JDBC** to streamline sales and inventory management for a local canteen.
+- **I also do coding commissions but am willing to intern for free.**:  
+  "I am not interested in monetary compensation. I am focused on contributing to your team.
 
 ---
 
