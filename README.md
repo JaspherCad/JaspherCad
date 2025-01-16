@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Jaspher Cadelina! 👋</h1>
-  <h3>Computer Science Student | Full Stack Developer | Tech Enthusiast</h3>
+  <h3>Computer Science Student | Full Stack Developer (java for now...) | Tech Enthusiast</h3>
 </div>
 
 
