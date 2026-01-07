@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="font-size:4em;">Hi, I'm Jaspher Cadelina! 👋</h1>
   <h2 style="font-size:2.5em;">Computer Science Student | Full Stack Developer (wannabe for now...) | Tech Enthusiast</h2>
-  <p style="font-size:1.5em;">
+  <p style="font-size:8.5em;">
     🌐 <a href="https://tiny-wave-6651.jcadelina2002.workers.dev/" target="_blank">Visit My Web Portfolio</a>
   </p>
 </div>
