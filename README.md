@@ -1,18 +1,11 @@
 <div align="center">
   <h1 style="font-size:4em;">Hi, I'm Jaspher Cadelina! 👋</h1>
   <h2 style="font-size:2.5em;">Computer Science Student | Full Stack Developer (wannabe for now...) | Tech Enthusiast</h2>
-<p style="font-size:8.5em;">
-  🌐 <a href="https://tiny-wave-6651.jcadelina2002.workers.dev/" target="_blank">Visit My Web Portfolio</a>
+<p align="center">
+  🌐 <a href="https://tiny-wave-6651.jcadelina2002.workers.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Web%20Portfolio-007acc?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
-
-<style>
-  p[style] a {
-    font-size: 1em;
-    font-weight: bold;
-    color: #007acc;
-    text-decoration: none;
-  }
-</style>
 </div>
 
 <div align="center">
