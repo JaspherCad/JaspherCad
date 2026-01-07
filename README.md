@@ -2,8 +2,8 @@
   <h1 style="font-size:4em;">Hi, I'm Jaspher Cadelina! 👋</h1>
   <h2 style="font-size:2.5em;">Computer Science Student | Full Stack Developer (wannabe for now...) | Tech Enthusiast</h2>
 <p align="center">
-  🌐 <a href="https://tiny-wave-6651.jcadelina2002.workers.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Web%20Portfolio-007acc?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://tiny-wave-6651.jcadelina2002.workers.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Web%20Portfolio-FF0000?style=for-the-badge&logo=firefox&logoColor=white" width="600" height="180" />
   </a>
 </p>
 </div>
